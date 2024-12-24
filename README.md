@@ -1,6 +1,9 @@
+# Aprendendo Laravel 11 com docker
 
+
+
+<!-- 
 # Setup Docker Laravel 11 com PHP 8.3
-[Assine a Academy, e Seja VIP!](https://academy.especializati.com.br)
 
 ### Passo a passo
 Clone Repositório
@@ -49,4 +52,4 @@ php artisan migrate
 ```
 
 Acesse o projeto
-[http://localhost:8000](http://localhost:8000)
+[http://localhost:8000](http://localhost:8000) -->
